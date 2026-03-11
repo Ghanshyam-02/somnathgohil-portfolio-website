@@ -455,12 +455,7 @@ img { max-width: 100%; display: block; }
 
 .gallery-img-main {
   grid-column: 1 / -1;
-  height: 280px;
-}
-
-.gallery-img-side {
-  height: 155px;
-  grid-column: 1 / -1;
+  height: 340px;
 }
 
 .info-table {
